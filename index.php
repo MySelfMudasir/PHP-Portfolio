@@ -94,25 +94,25 @@ include 'layouts/main-page-navbar.php';
         </div>
 
         <div class="row" data-aos="fade-left">
-          <div class="col-lg-3 col-md-4">
+          <div class="col-lg-3 col-md-4 mt-4 mt-lg-0">
             <div class="icon-box" data-aos="zoom-in" data-aos-delay="50">
               <img width="35" height="35" src="assets/img/angular.svg" alt="laravel" class="me-2"/>
               <h3><a href="">Angular</a></h3>
             </div>
           </div>
-          <div class="col-lg-3 col-md-4">
+          <div class="col-lg-3 col-md-4 mt-4 mt-lg-0">
             <div class="icon-box" data-aos="zoom-in" data-aos-delay="50">
               <img width="35" height="35" src="assets/img/react.svg" alt="laravel" class="me-2"/>
               <h3><a href="">React</a></h3>
             </div>
           </div>
-          <div class="col-lg-3 col-md-4">
+          <div class="col-lg-3 col-md-4 mt-4 mt-lg-0">
             <div class="icon-box" data-aos="zoom-in" data-aos-delay="50">
               <img width="35" height="35" src="assets/img/typescript.svg" alt="laravel" class="me-2"/>
               <h3><a href="">TypeScript</a></h3>
             </div>
           </div>
-          <div class="col-lg-3 col-md-4">
+          <div class="col-lg-3 col-md-4 mt-4 mt-lg-0">
             <div class="icon-box" data-aos="zoom-in" data-aos-delay="50">
               <img width="35" height="35" src="assets/img/mongodb.svg" alt="laravel" class="me-2"/>
               <h3><a href="">MongoDB</a></h3>
